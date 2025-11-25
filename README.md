@@ -3,8 +3,6 @@
 # 🧠✨ Pyxel AI Coder  
 ### Seu Assistente Pessoal de Programação Python 🤖🐍
 
-<img src="assets/pyxel_banner.png" width="100%" />
-
 </div>
 
 ---
@@ -61,9 +59,6 @@ Melhorias são sempre bem-vindas! 🚀
 👨‍💻 Autor
 
 Breno Crespo
-📎 LinkedIn
-
-📎 GitHub
 
 <div align="center">
 ⭐ Se este projeto te ajudou, deixe uma estrela no GitHub!
