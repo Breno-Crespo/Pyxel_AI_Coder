@@ -3,7 +3,7 @@
 # 🧠✨ Pyxel AI Coder  
 ### Seu Assistente Pessoal de Programação Python 🤖🐍
 
-<img src="./assets/pyxel_banner.png" width="100%" />
+<img src="assets/pyxel_banner.png" width="100%" />
 
 </div>
 
@@ -38,7 +38,6 @@ Ele funciona como um mini-ChatGPT personalizado, com histórico de mensagens, re
 - CSS/HTML embutido no Streamlit  
 
 ---
-
 ## 📦 Instalação
 
 ### 1. Criar ambiente Conda
@@ -51,6 +50,7 @@ pip install streamlit groq
 
 3. Rodar o projeto
 streamlit run app.py
+```
 
 
 🤝 Contribuições
